@@ -1,0 +1,62 @@
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:#0a001f;
+color:#eee;
+text-align:center;
+}
+.hero{
+padding:70px 20px;
+background:linear-gradient(135deg,#1b003d,#3a0070);
+}
+.hero h1{
+font-size:48px;
+letter-spacing:3px;
+}
+.info{
+padding:20px;
+font-size:18px;
+}
+.roster{
+padding:40px 20px;
+max-width:900px;
+margin:auto;
+}
+.roster h2{
+color:#c77dff;
+margin-bottom:30px;
+}
+.player{
+background:#14002e;
+border:2px solid #6a00ff;
+border-radius:12px;
+padding:20px;
+margin-bottom:20px;
+}
+.player a{
+display:inline-block;
+margin-top:10px;
+padding:10px 18px;
+background:#7b2cff;
+color:white;
+text-decoration:none;
+border-radius:6px;
+transition:.3s;
+}
+.player a:hover{
+background:#a066ff;
+}
+.amb{
+padding:40px 20px;
+background:#100020;
+}
+footer{
+padding:20px;
+background:#070015;
+color:#aaa;
+}
+footer a{
+color:#b98cff;
+text-decoration:none;
+margin:0 5px;
+}
