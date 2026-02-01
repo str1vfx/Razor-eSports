@@ -1,13 +1,13 @@
 body{
 margin:0;
 font-family:Arial, sans-serif;
-background:#0a001f;
+background:#36010e;
 color:#eee;
 text-align:center;
 }
 .hero{
 padding:70px 20px;
-background:linear-gradient(135deg,#1b003d,#3a0070);
+background:linear-gradient(135deg,#3b0202,#da0000);
 }
 .hero h1{
 font-size:48px;
@@ -23,12 +23,12 @@ max-width:900px;
 margin:auto;
 }
 .roster h2{
-color:#c77dff;
+color:#ef2f58;
 margin-bottom:30px;
 }
 .player{
-background:#14002e;
-border:2px solid #6a00ff;
+background:#2c0304;
+border:2px solid #bb3f3f;
 border-radius:12px;
 padding:20px;
 margin-bottom:20px;
@@ -37,26 +37,26 @@ margin-bottom:20px;
 display:inline-block;
 margin-top:10px;
 padding:10px 18px;
-background:#7b2cff;
+background:#dd1111;
 color:white;
 text-decoration:none;
 border-radius:6px;
 transition:.3s;
 }
 .player a:hover{
-background:#a066ff;
+background:#ff3b3b;
 }
 .amb{
 padding:40px 20px;
-background:#100020;
+background:#410101;
 }
 footer{
 padding:20px;
-background:#070015;
-color:#aaa;
+background:#240101;
+color:#540a0a;
 }
 footer a{
-color:#b98cff;
+color:#ff0000;
 text-decoration:none;
 margin:0 5px;
 }
